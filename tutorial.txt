@@ -1,0 +1,3 @@
+To open BLE device project.
+fllowing link : ..\examples\ble_peripheral\aaa_ble_app_beacon\pca20006\s130\arm5_no_packs
+Note: open with keliC5 tool.
